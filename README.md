@@ -22,4 +22,4 @@ url = "redis://user:passwd@host:port"
 
 
 # ETL # 
-You can find the ETL here [a link](https://github.com/AranaDeDoros/spark-redis-etl)
+You can find the ETL [here](https://github.com/AranaDeDoros/spark-redis-etl).
