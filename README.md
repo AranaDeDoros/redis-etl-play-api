@@ -7,7 +7,7 @@ A lightweight test REST API built with **Play Framework** that retrieves transac
 ##  Overview
 
 This API exposes endpoints to query retail transactions stored in Redis by `CustomerID`.  
-It is designed to connect directly to the output of the [`spark-redis-etl`](https://github.com/yourusername/spark-redis-etl) project.
+It is designed to connect directly to the output of the [`spark-redis-etl`](https://github.com/AranaDeDoros/spark-redis-etl) project.
 
 **Architecture**
 ```text
